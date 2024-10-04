@@ -26,7 +26,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd 01-starting-project
+  cd 03-project
 ```
 
 Install dependencies
