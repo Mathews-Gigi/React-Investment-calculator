@@ -1,5 +1,9 @@
 # A React Investment Calculator
 
+## Screenshots
+
+![App Screenshot](/src/assets/calc1.png)
+
 ## Authors
 
 - [Mathews Gigi]()
@@ -40,7 +44,3 @@ Start the server
 ```bash
   npm run dev
 ```
-
-## Screenshots
-
-![App Screenshot](/src/assets/calc1.png)
